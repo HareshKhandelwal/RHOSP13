@@ -1,0 +1,31 @@
+{
+   "nodes":[	
+        {
+            "mac":["2C:60:0C:CA:34:FD"],
+            "name":"Server8",
+            "arch":"x86_64",
+            "pm_type":"ipmi",
+            "pm_user":"admin",
+            "pm_password":"admin",
+            "pm_addr":"10.19.109.207"
+        },
+        {
+            "mac":["2C:60:0C:CA:A9:06"],
+            "name":"Server9",
+            "arch":"x86_64",
+            "pm_type":"ipmi",
+            "pm_user":"admin",
+            "pm_password":"admin",
+            "pm_addr":"10.19.109.209"
+        },
+        {
+            "mac":["2C:60:0C:CD:12:46"],
+            "name":"Server11",
+            "arch":"x86_64",
+            "pm_type":"ipmi",
+            "pm_user":"admin",
+            "pm_password":"admin",
+            "pm_addr":"10.19.109.213"
+        }
+    ]
+}
